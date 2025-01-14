@@ -32,5 +32,7 @@
    java Client
 5.Begin the group chat by sending messages from one client to see them reflected across others.
 
+<img src="socketHive/SocketSimple.png" alt="terminal" style="width: 100%;">
+
 ## Copyright
 © 2025 SocketHive. All rights reserved.
